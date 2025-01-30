@@ -59,4 +59,4 @@ TailwindCSS ensures consistent styling across all micro-frontends.
 1. Create a new Vite project
 2. Configure Module Federation
 3. Add the remote entry to the host's vite.config.ts
-4. Create a new route in the host application
+4. Create a new route in the host application# micro
